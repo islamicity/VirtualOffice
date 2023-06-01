@@ -6,6 +6,11 @@ Yuk Semua Belajar kepada Allah SWT dengan mengisi http://potensi.islamicity.tv d
 
 melalui distand eLearning Trainig Education Coach Course Seminar Workshop http://global.tecs.islamicity.tv
 
+Supported by
+  - CAP  - Central Access Point
+  - UPIC  - Unit Pelayanan Islamicity
+  - Koperasi - Bank Broker DUIT Voucher
+  - Bank Voucher, Data, Iklan, Sisa(sampah)
 
 ## Open in browser :
 https://islamicity.github.io/VirtualOffice
