@@ -1,0 +1,47 @@
+The error message "github-pages 231 | Error: No such file or directory @ dir_chdir - /github/workspace/docs" indicates that GitHub Pages cannot find the required directory to build your website. This usually happens when:
+
+**1. Direktori docs Salah atau Tidak Ada:**
+
+* **Pastikan Penamaan:** Pastikan Anda memiliki direktori bernama `docs` (dengan huruf kecil) di direktori root repositori GitHub Pages Anda. Ini adalah tempat GitHub Pages akan mencari file situs web Anda.
+* **Lokasi yang Benar:** Pastikan direktori `docs` Anda berada di tingkat teratas (root) repositori Anda, bukan di dalam folder lain.
+
+**2. Pengaturan GitHub Pages:**
+
+* **Periksa Cabang:** Pastikan Anda telah mengkonfigurasi GitHub Pages untuk menggunakan cabang yang benar (biasanya `main` atau `gh-pages`) dan direktori `docs`. Anda dapat memeriksa ini di pengaturan repositori Anda di GitHub.
+
+**3. File Konfigurasi Jekyll:**
+
+* **_config.yml:** Jika Anda menggunakan Jekyll, pastikan file konfigurasi `_config.yml` Anda memiliki pengaturan yang benar, terutama untuk direktori sumber dan tujuan.  Contoh:
+
+```yaml
+source: docs
+destination: docs/_site
+```
+
+**4. Kesalahan Push atau Percabangan:**
+
+* **Push Ulang:** Jika Anda baru saja mengubah direktori `docs` atau file konfigurasi, pastikan Anda telah melakukan push ulang perubahan tersebut ke GitHub.
+* **Gunakan Cabang yang Benar:** Pastikan Anda bekerja pada cabang yang benar dan bahwa perubahan yang Anda buat sudah masuk ke cabang tersebut.
+
+**Langkah-langkah Perbaikan:**
+
+1. **Periksa Struktur Direktori:** Verifikasi bahwa direktori `docs` ada di root repositori Anda dan berisi file situs web Anda.
+2. **Periksa Pengaturan GitHub Pages:** Buka pengaturan repositori Anda di GitHub dan pastikan GitHub Pages dikonfigurasi dengan benar untuk menggunakan direktori `docs`.
+3. **Periksa File Konfigurasi Jekyll:** Jika menggunakan Jekyll, periksa apakah `_config.yml` memiliki pengaturan yang benar untuk `source` dan `destination`.
+4. **Push Ulang Perubahan:** Jika Anda telah membuat perubahan, pastikan untuk melakukan push ulang perubahan tersebut ke GitHub.
+
+**Contoh Perintah untuk Push Ulang (jika perlu):**
+
+```bash
+git add .
+git commit -m "Fix docs directory issue"
+git push origin main
+```
+
+Jika masalah masih berlanjut, berikan informasi tambahan seperti:
+
+* **Apakah Anda menggunakan Jekyll atau generator situs statis lainnya?**
+* **Apakah Anda baru saja mengubah struktur direktori atau file konfigurasi?**
+* **Adakah pesan kesalahan lain selain yang Anda sebutkan?**
+
+Dengan informasi tambahan ini, saya dapat memberikan solusi yang lebih spesifik untuk masalah Anda.
