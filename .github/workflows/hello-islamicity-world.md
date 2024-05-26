@@ -66,3 +66,7 @@ jobs:
 * Gunakan action yang sudah ada untuk menghemat waktu dan tenaga.
 * Uji workflow Anda secara teratur untuk memastikannya berfungsi dengan baik.
 * Pelajari dokumentasi GitHub Actions untuk memahami lebih lanjut tentang fitur-fitur yang tersedia.
+
+
+![image](https://github.com/islamicity/VirtualOffice/assets/7359227/ced884eb-5117-4567-a41d-dbada4553143)
+
