@@ -1,0 +1,25 @@
+/* Basic styling for the website */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 1rem;
+}
+
+nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #007bff; /* Contoh warna biru */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
