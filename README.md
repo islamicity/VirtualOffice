@@ -112,3 +112,31 @@ Virtual Office Islamicity diharapkan dapat memberikan dampak positif yang signif
 
 Kami mengajak seluruh masyarakat Indonesia untuk bergabung dalam gerakan pemberdayaan ekonomi umat melalui Virtual Office Islamicity. Isi formulir potensi di [http://potensi.islamicity.tv](http://potensi.islamicity.tv) dan daftar di [http://register.islamicity.tv](http://register.islamicity.tv) untuk menjadi bagian dari perubahan positif ini.
 
+
+Services of the terms:
+
+* **Virtual Assistant (VA):** This is a broad term referring to a person who provides assistance to clients from a remote location. VAs can handle a wide range of tasks, including administrative, technical, and creative work. They are typically independent contractors or employees of a virtual assistant company.
+
+* **Virtual Office Assistant:** This term is very similar to "Virtual Assistant" but often emphasizes tasks specifically related to office administration and organization. This might include scheduling appointments, managing emails, data entry, preparing documents, and basic bookkeeping. Essentially, they act as a remote office support staff.
+
+* **Google Assistant:** This is a specific **software-based virtual assistant** developed by Google. It is an AI-powered voice assistant that can perform tasks and provide information through voice commands. It is integrated into various devices like smartphones, smart speakers (Google Home/Nest), smart displays, and cars. Key functionalities include setting reminders, playing music, making calls, answering questions, controlling smart home devices, and providing personalized information.
+
+* **Islamicity Virtual Assistant:** This term is more niche and likely refers to a **software-based virtual assistant** designed with a focus on Islamic & Islamicity knowledge and practices. Such an assistant might be able to:
+    * Answer questions about Islamic & Islamicity teachings, history, and jurisprudence.
+    * Provide prayer times based on location.
+    * Recite or provide translations of Quranic verses.
+    * Offer information about Hadith.
+    * Potentially guide users through religious rituals.
+    * Point towards relevant Islamic & Islamicity resources.
+
+**Key Differences:**
+
+* **Human vs. Software:** Virtual Assistants and Virtual Office Assistants are typically *human beings* providing services remotely. Google Assistant and an Islamicity Virtual Assistant (as described) are *software programs* utilizing artificial intelligence.
+* **Scope of Services:** Human VAs and Virtual Office Assistants can offer a much wider and more flexible range of services, adapting to specific client needs. Software-based assistants are limited to their programmed capabilities.
+* **Specificity of Focus:** Google Assistant is a general-purpose virtual assistant. An Islamicity Virtual Assistant has a very specific focus on Islamic & Islamicity topics.
+
+In summary:
+
+* **Virtual Assistant** and **Virtual Office Assistant** describe a *human* providing remote support.
+* **Google Assistant** is a specific *AI-powered software* by Google for general tasks.
+* **Islamicity Virtual Assistant** would be an *AI-powered software* with a specific focus on Islamic & Islamicity knowledge and practices.
